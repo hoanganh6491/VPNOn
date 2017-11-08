@@ -9,7 +9,7 @@
 import UIKit
 import CoreData
 
-let kAppGroupIdentifier = "group.VPNOn"
+let kAppGroupIdentifier = "group.com.TFcompany.SimpleTunnel"
 
 private let VPNDataManagerInstance = VPNDataManager()
 
